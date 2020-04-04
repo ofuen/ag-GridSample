@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ag-GridSample/precache-manifest.65c96e3f7c2e9e852149d895fd9c9955.js"
+  "/ag-GridSample/precache-manifest.354c501eaf5bc00aeb146a0dbb1ca381.js"
 );
 
 self.addEventListener('message', (event) => {
