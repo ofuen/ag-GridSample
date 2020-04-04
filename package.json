@@ -8,6 +8,8 @@
     "ag-grid-react": "^21.2.1",
     "eslint-utils": "^1.4.2",
     "gh-pages": "^2.1.1",
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
