@@ -10,7 +10,7 @@
     "gh-pages": "^3.0.0",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
     "serialize-javascript": "^4.0.0",
